@@ -93,6 +93,4 @@ In modern DevOps, observability is key to ensuring the health and performance of
 
 Contributions are welcome! Please submit a pull request or open an issue for any changes or improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
